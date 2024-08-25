@@ -1,5 +1,5 @@
 # node-vs-springboot
-Certainly! Both Node.js and Spring Boot are popular backend frameworks used for building server-side applications, but they have different characteristics and cater to different preferences. Here are the pros and cons of using Node.js and Spring Boot:
+Both Node.js and Spring Boot are popular backend frameworks used for building server-side applications, but they have different characteristics and cater to different preferences. Here are the pros and cons of using Node.js and Spring Boot:
 
 ### Node.js:
 
